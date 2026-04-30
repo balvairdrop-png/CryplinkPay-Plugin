@@ -1,0 +1,1 @@
+msgstr "Ihre Zahlung wird bearbeitet!"

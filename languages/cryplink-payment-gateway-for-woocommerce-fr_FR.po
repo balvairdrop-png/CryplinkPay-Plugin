@@ -1,0 +1,1 @@
+msgstr "Votre paiement est en cours de traitement !"

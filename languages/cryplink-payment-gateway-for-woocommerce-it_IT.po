@@ -1,0 +1,1 @@
+msgstr "Il sistema sta processando il tuo pagamento!"
